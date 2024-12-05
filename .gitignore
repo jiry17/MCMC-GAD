@@ -1,5 +1,5 @@
 transformers/
-
+.idea
 log/log_GAD/
 
 benchmarks/
